@@ -20,12 +20,13 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alacine&count_private=true&theme=onedark&layout=compact&card_width=250" />
 </a>
 
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/go.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/archlinux.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vim.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/terraform.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ansible.svg"></code>
+<code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/go.svg"></code>
+<code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg"></code>
+<code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg"></code>
+<code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/archlinux.svg"></code>
+<code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg"></code>
+<code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vim.svg"></code>
+<code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/neovim.svg"></code>
+<code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg"></code>
+<code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/terraform.svg"></code>
+<code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ansible.svg"></code>
