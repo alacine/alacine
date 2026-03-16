@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 <code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/go.svg"></code>
 <code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg"></code>
+<code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/rust.svg"></code>
 <code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg"></code>
 <code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/archlinux.svg"></code>
 <code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg"></code>
@@ -29,4 +30,5 @@ Here are some ideas to get you started:
 <code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/neovim.svg"></code>
 <code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg"></code>
 <code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/terraform.svg"></code>
+<code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/packer.svg"></code>
 <code><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ansible.svg"></code>
